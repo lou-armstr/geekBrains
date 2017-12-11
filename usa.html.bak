@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Личный сайт студента GeekBrains</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="content">
+        <div class="header">
+            <a href="index.html"> Главная </a>/
+            <a href="italy.html"> Италия </a>/
+            <a href="usa.html"> Америка </a>
+        </div>
+        <h1>Личный сайт студента GeekBrains</h1>
+        <div id="center">
+            
+            
+            
+            
+            
+            
+       </div>
+    </div>
+<div id="footer">
+        Copyright &copy; <?php echo date("Y"); ?> <a href="https://geekbrains.ru/" target="_blank">GeekBrains</a>
+</div>
+</body>
+</html>
